@@ -1,0 +1,6 @@
+{
+  "name": "BlockDrop Tetris",
+  "description": "Game Tetris arcade trực tuyến hiện đại dành cho học sinh, đầy đủ âm thanh, bảng xếp hạng và hỗ trợ cả máy tính lẫn điện thoại.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
